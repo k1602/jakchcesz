@@ -12,3 +12,4 @@ elif delta > 0:
     x = ((b*-1)-(delta**(1/2)))/(2*a)
     xx = ((b*-1)+(delta**(1/2)))/(2*a)
     print(f"Miejsca zerowe to x1={x} oraz x2={xx}")
+    
